@@ -32,13 +32,13 @@ REJECT_MSG: process.env.REJECT_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє�
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://qu.ax/zrqFX.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/MDghpjCb/81cbf0e74c0f571a.jpg",
 // add custom menu image url
 PREFIX: process.env.PREFIX || ".", 
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ALI-MD",
+BOT_NAME: process.env.BOT_NAME || "ZAIN-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "ALI-MD",    
+STICKER_NAME: process.env.STICKER_NAME || "ZAIN-MD",    
 VPS: process.env.VPS || "",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -46,11 +46,11 @@ OWNER_REACT: process.env.OWNER_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923003588997",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "9230144247057",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ALI INXIDE",
+OWNER_NAME: process.env.OWNER_NAME || "⸙ 𝐌𝐑־ 𓆩«𝚭𝚫𝚰𝚴𔒝»ꜛ؜𓆪",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "© ᴘσωєʀє∂ ву αℓι м∂⎯꯭̽💀",
+DESCRIPTION: process.env.DESCRIPTION || ⸙ 𝐌𝐑־ 𓆩«𝚭𝚫𝚰𝚴𔒝»ꜛ؜𓆪",
 // add bot desp name    
 LIVE_MSG: process.env.LIVE_MSG || "HEY IM ALIVE",
 // add alive msg here 
@@ -78,7 +78,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923003588997",
+DEV: process.env.DEV || "923144247057",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
