@@ -1,6 +1,6 @@
 {
-  "name": "ALI-MD",
-  "description": "Javascript WhatsApp bot made by ali",
+  "name": "ZAIN-MD",
+  "description": "Javascript WhatsApp bot made by Zain",
   "logo": "https://files.catbox.moe/6ku0eo.jpg",
   "keywords": ["ALI-MD"],
   "success_url": "/",
@@ -97,14 +97,14 @@
     "DESCRIPTION": {
       "description": "Type here the bot description name.",
       "required": false,
-      "value": "© ᴘσωєʀє∂ ву αℓι м∂⎯꯭̽💀"
+      "value": ⸙ 𝐌𝐑־ 𓆩«𝚭𝚫𝚰𝚴𔒝»ꜛ؜𓆪"
 
       }, 
     
     "ALIVE_IMG": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/6ku0eo.jpg" 
+      "value": "https://i.ibb.co/MDghpjCb/81cbf0e74c0f571a.jpg" 
       },
 
     "ANTI_LINK_WARN": {
